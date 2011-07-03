@@ -1,6 +1,6 @@
-#import <SBAwayView.h>
-#import <SBAwayChargingView.h>
-#import <SBBatteryChargingView.h>
+#import <SpringBoard/SBAwayView.h>
+#import <SpringBoard/SBAwayChargingView.h>
+#import <SpringBoard/SBBatteryChargingView.h>
 #define PATH @"/System/Library/CoreServices/SpringBoard.app"
 
 static BOOL enableAnimateBattery=YES;

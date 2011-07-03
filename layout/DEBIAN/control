@@ -1,0 +1,9 @@
+Package: net.limneos.animatebattery
+Name: AnimateBattery
+Depends: mobilesubstrate, firmware (>=4.0)
+Version: 0.1
+Architecture: iphoneos-arm
+Description: Animated battery charging status
+Maintainer: Elias Limneos
+Author: Elias Limneos
+Section: Tweaks
